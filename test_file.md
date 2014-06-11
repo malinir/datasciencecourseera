@@ -1,4 +1,4 @@
-##This is just a test file for learning.
+##This is a test file for learning.
 
 *Git learning
 *Git commit
